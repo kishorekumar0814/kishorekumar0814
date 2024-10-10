@@ -1,6 +1,4 @@
-<head><meta name="google-site-verification" content="9CCQ44OTW5IKwQX5yFUGuK9nmmJMlpLdyHb1rzmKglA" /></head>
-
-# Hi there, I'm Kishore Kumar S. 👋
+# Hi there, I'm Kishore Kumar S 👋
 
 ## Quick Learner | Team Player | Versatile
 
