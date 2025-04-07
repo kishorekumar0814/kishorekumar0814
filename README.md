@@ -15,7 +15,7 @@ Seeking a position in Software Developer role, where I can apply my passion for 
 ## 🎓 Education
 **M.Tech – Computer Science & Engineering**  
 Vellore Institute of Technology, Vellore.  
-CGPA: 7.63 | 2023 – PRESENT
+CGPA: 8.03 | 2023 – PRESENT
 
 **B.Tech – Information Technology**  
 Global Institute of Engineering and Technology, Melvisharam, Tamil Nadu.  
