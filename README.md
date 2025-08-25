@@ -8,14 +8,14 @@
 ---
 
 ## 🎯 Career Objective
-Seeking a position in Software Developer role, where I can apply my passion for technology and commitment to staying updated with emerging trends. With a knack for problem-solving, strong communication skills, and a keen desire to learn new technologies, I aim to thrive in a collaborative team environment, contributing effectively while driving collective success.
+Seeking a position in a Software Developer, ML/DL Engineer, Cloud Engineer roles, where I can apply my passion for technology and software development to design, develop, test, and maintain innovative applications also with embedding ML and DL in it. Eager to leverage emerging technologies to create efficient and scalable solutions that meet customer requirements while continuously enhancing my skills in a dynamic and collaborative environment.
 
 ---
 
 ## 🎓 Education
 **M.Tech – Computer Science & Engineering**  
 Vellore Institute of Technology, Vellore.  
-CGPA: 8.03 | 2023 – PRESENT
+CGPA: 8.37 | 2023 – 2025
 
 **B.Tech – Information Technology**  
 Global Institute of Engineering and Technology, Melvisharam, Tamil Nadu.  
@@ -32,7 +32,7 @@ CGPA: 8.42 | 2019 - 2023
 | **Cloud Computing**              | Google Cloud Platform (GCP), IBM Cloud.                                                    |
 | **Operating Systems**            | Windows, Linux.                                                                             |
 | **Web Development**              | HTML, CSS, JavaScript, Python Flask.                                                        |
-| **DevOps & Data Analytics**      | Git, Jira, GitHub, Docker, Power BI, Tableau.                                              |
+| **DevOps & Data Analytics**      | Git, Jira, GitHub, Docker, K8, Power BI, Tableau.                                              |
 
 ---
 
@@ -81,4 +81,4 @@ CGPA: 8.42 | 2019 - 2023
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to reach out if you would like to collaborate or connect!
+Thank you! ❤ for visiting my GitHub profile! Feel free to reach out if you would like to collaborate or connect! 🫱🏻‍🫲🏻
